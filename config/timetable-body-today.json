@@ -1,0 +1,17 @@
+{
+	"__args": [
+		null,
+		{
+			"year": 2022,
+			"datefrom": "2022-10-20",
+			"dateto": "2022-10-20",
+			"table": "classes",
+			"id": "-53",
+			"showColors": true,
+			"showIgroupsInClasses": false,
+			"showOrig": true,
+			"log_module": "CurrentTTView"
+		}
+	],
+	"__gsh": "00000000"
+}

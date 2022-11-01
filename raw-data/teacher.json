@@ -1,0 +1,3018 @@
+{
+	"r": {
+		"type": "maindbi",
+		"dbid": "2022",
+		"tables": [
+			{
+				"id": "teachers",
+				"def": {
+					"id": "teachers",
+					"name": "Nastavnici",
+					"item_name": "Nastavnik",
+					"icon": "/global/pics/ui/teacher_32.svg",
+					"name_cols": [
+						"FSL",
+						"LCF",
+						"LSF",
+						"PFSL",
+						"PFSLX",
+						"LCFP",
+						"LSFP",
+						"LSFCP",
+						"PLSF"
+					]
+				},
+				"cdefs": [
+					{
+						"id": "short",
+						"type": "string",
+						"name": "Kratica"
+					}
+				],
+				"_uial": 0,
+				"data_rows": [
+					{
+						"id": "-222",
+						"short": "Lucija Medić"
+					},
+					{
+						"id": "-220",
+						"short": "Asist. Darija Anđelić"
+					},
+					{
+						"id": "-109",
+						"short": "Asist. Anela Pralas"
+					},
+					{
+						"id": "-59",
+						"short": "Asist. Ante Primorac"
+					},
+					{
+						"id": "-62",
+						"short": "Asist. Antonija Kraljević"
+					},
+					{
+						"id": "-61",
+						"short": "Asist. Dragana Kordić"
+					},
+					{
+						"id": "-121",
+						"short": "Asist. Inga Krešić"
+					},
+					{
+						"id": "-135",
+						"short": "Asist. Ivana Marić"
+					},
+					{
+						"id": "-226",
+						"short": "Asist. Matej Kljajo"
+					},
+					{
+						"id": "-136",
+						"short": "Asist. Luka Šaravanja"
+					},
+					{
+						"id": "-127",
+						"short": "Asist. Mario Soldo"
+					},
+					{
+						"id": "-113",
+						"short": "Asist. Marko Grbešić"
+					},
+					{
+						"id": "-92",
+						"short": "Asist. Petar Marić"
+					},
+					{
+						"id": "-93",
+						"short": "Asist. Sandro Zurovac"
+					},
+					{
+						"id": "-89",
+						"short": "Asist. Selena Knežić Buhovac"
+					},
+					{
+						"id": "-103",
+						"short": "Asist. Sonja Sušac"
+					},
+					{
+						"id": "-152",
+						"short": "Asist. Tonina Ibrulj"
+					},
+					{
+						"id": "-174",
+						"short": "Asist. Zoran Žarić"
+					},
+					{
+						"id": "-224",
+						"short": "doc. dr. sc. Goran Kujundžić "
+					},
+					{
+						"id": "-223",
+						"short": "doc. dr. sc. Marijan Primorac"
+					},
+					{
+						"id": "-202",
+						"short": "doc. dr. sc. Tvrtko Mandić"
+					},
+					{
+						"id": "-211",
+						"short": "doc.Jelena Matković"
+					},
+					{
+						"id": "-210",
+						"short": "doc.Jelena Matković"
+					},
+					{
+						"id": "-171",
+						"short": "Doc.dr.sc. Alen Bernardić"
+					},
+					{
+						"id": "-87",
+						"short": "Doc.dr.sc. Bojan Crnković"
+					},
+					{
+						"id": "-150",
+						"short": "Doc.dr.sc. Boris Crnokić"
+					},
+					{
+						"id": "-228",
+						"short": "Doc. Daniel Vasić"
+					},
+					{
+						"id": "-130",
+						"short": "Doc.dr.sc. Danijel Šogorović"
+					},
+					{
+						"id": "-196",
+						"short": "Doc.dr.sc. Danijel Zelenika"
+					},
+					{
+						"id": "-155",
+						"short": "Doc.dr.sc. Darija Glibić"
+					},
+					{
+						"id": "-88",
+						"short": "Doc.dr.sc. Goran Kraljević"
+					},
+					{
+						"id": "-99",
+						"short": "Doc.dr.sc. Goran Majić"
+					},
+					{
+						"id": "-111",
+						"short": "Doc.dr.sc. Ivan Ramljak"
+					},
+					{
+						"id": "-71",
+						"short": "Doc.dr.sc. Ivana Zovko-Bošnjak"
+					},
+					{
+						"id": "-54",
+						"short": "Doc.dr.sc. Krešimir Rakić"
+					},
+					{
+						"id": "-199",
+						"short": "Doc.dr.sc. Mirela Kundid Vasić"
+					},
+					{
+						"id": "-125",
+						"short": "Doc.dr.sc. Miroslav Grubišić"
+					},
+					{
+						"id": "-118",
+						"short": "Doc.dr.sc. Nikola Knezović"
+					},
+					{
+						"id": "-90",
+						"short": "Doc.dr.sc. Petar Mostarac"
+					},
+					{
+						"id": "-55",
+						"short": "Doc.dr.sc. Snježana Braić"
+					},
+					{
+						"id": "-108",
+						"short": "Doc.dr.sc. Tvrtko Mandić"
+					},
+					{
+						"id": "-106",
+						"short": "Doc.dr.sc. Vinko Lešić"
+					},
+					{
+						"id": "-170",
+						"short": "Doc.dr.sc. Vladimir Pleština"
+					},
+					{
+						"id": "-73",
+						"short": "Doc.dr.sc. Željko Šeremet"
+					},
+					{
+						"id": "-175",
+						"short": "Doc.dr.sc. Željko Marušić"
+					},
+					{
+						"id": "-216",
+						"short": "doc. Anela Čolak"
+					},
+					{
+						"id": "-163",
+						"short": "FF"
+					},
+					{
+						"id": "-206",
+						"short": "izv. prof. dr. sc. Radoslav Tomović"
+					},
+					{
+						"id": "-201",
+						"short": "izv. prof. dr. sc. Slavica Brkić"
+					},
+					{
+						"id": "-189",
+						"short": "Izv.prof.dr.sc. Boris Milašinović"
+					},
+					{
+						"id": "-70",
+						"short": "Izv.prof.dr.sc. Božo Tomas"
+					},
+					{
+						"id": "-112",
+						"short": "Izv.prof.dr.sc. Davorka Šaravanja"
+					},
+					{
+						"id": "-192",
+						"short": "Izv.prof.dr.sc. Drago Bago"
+					},
+					{
+						"id": "-172",
+						"short": "Izv.prof.dr.sc. Hrvoje Džapo"
+					},
+					{
+						"id": "-144",
+						"short": "Izv.prof.dr.sc. Ivan Marasović"
+					},
+					{
+						"id": "-78",
+						"short": "Izv.prof.dr.sc. Ivan Radoš"
+					},
+					{
+						"id": "-147",
+						"short": "Izv.prof.dr.sc. Ivana Zubac"
+					},
+					{
+						"id": "-114",
+						"short": "Izv.prof.dr.sc. Nebojša Rašović"
+					},
+					{
+						"id": "-119",
+						"short": "Izv.prof.dr.sc. Nikola Koceić Bilan"
+					},
+					{
+						"id": "-166",
+						"short": "Izv.prof.dr.sc. Slavica Brkić"
+					},
+					{
+						"id": "-131",
+						"short": "Izv.prof.dr.sc. Stipo Buljan"
+					},
+					{
+						"id": "-133",
+						"short": "Izv.prof.dr.sc. Tihomir Betti"
+					},
+					{
+						"id": "-122",
+						"short": "Izv.prof.dr.sc. Vesna Raspudić"
+					},
+					{
+						"id": "-84",
+						"short": "Izv.prof.dr.sc. Željko Stojkić"
+					},
+					{
+						"id": "-221",
+						"short": "lektor Mario Penavić"
+					},
+					{
+						"id": "-193",
+						"short": "Marijo Krešić"
+					},
+					{
+						"id": "-194",
+						"short": "V.asist. Ana Pinjuh"
+					},
+					{
+						"id": "-208",
+						"short": "prof. dr. sc. Andrina Granić"
+					},
+					{
+						"id": "-204",
+						"short": "prof. dr. sc. Denis Pelin"
+					},
+					{
+						"id": "-200",
+						"short": "Prof. dr. sc. Iko Skoko"
+					},
+					{
+						"id": "-205",
+						"short": "prof. dr. sc. Juraj Havelka"
+					},
+					{
+						"id": "-219",
+						"short": "Prof. dr. sc. Maida Čohodar"
+					},
+					{
+						"id": "-203",
+						"short": "prof. Tomislav Volarić"
+					},
+					{
+						"id": "-227",
+						"short": "Prof. dr. sc. Zdenko Klepić"
+					},
+					{
+						"id": "-214",
+						"short": "prof. Zoran Primorac"
+					},
+					{
+						"id": "-225",
+						"short": "prof Krešimir Fertalj"
+					},
+					{
+						"id": "-117",
+						"short": "Prof.dr.sc. Adisa Vučina"
+					},
+					{
+						"id": "-116",
+						"short": "Prof.dr.sc. Angela Topić"
+					},
+					{
+						"id": "-161",
+						"short": "Prof.dr.sc. Ante Marušić"
+					},
+					{
+						"id": "-143",
+						"short": "Prof.dr.sc. Boženko Bilić"
+					},
+					{
+						"id": "-77",
+						"short": "Prof.dr.sc. Dragan Čović"
+					},
+					{
+						"id": "-74",
+						"short": "Prof.dr.sc. Drago Žagar"
+					},
+					{
+						"id": "-217",
+						"short": "prof. Goran Martinović"
+					},
+					{
+						"id": "-162",
+						"short": "Prof.dr.sc. Hrvoje Pandžić"
+					},
+					{
+						"id": "-173",
+						"short": "Prof.dr.sc. Igor Kuzle"
+					},
+					{
+						"id": "-212",
+						"short": "prof.dr.sc Irena Galić"
+					},
+					{
+						"id": "-215",
+						"short": "prof. Ivanka Boras"
+					},
+					{
+						"id": "-176",
+						"short": "Prof.dr.sc. Ivo Džijan"
+					},
+					{
+						"id": "-98",
+						"short": "Prof.dr.sc. Jadranko Matuško"
+					},
+					{
+						"id": "-218",
+						"short": "prof. Katerina Malić Bandur"
+					},
+					{
+						"id": "-104",
+						"short": "Prof.dr.sc. Mario vašak"
+					},
+					{
+						"id": "-105",
+						"short": "Prof.dr.sc. Mato Baotić"
+					},
+					{
+						"id": "-120",
+						"short": "Prof.dr.sc. Milenko Obad"
+					},
+					{
+						"id": "-65",
+						"short": "Prof. dr. sc. Mirjana Bonković"
+					},
+					{
+						"id": "-156",
+						"short": "Prof.dr.sc. Nikola Koceić Bilan"
+					},
+					{
+						"id": "-115",
+						"short": "Prof.dr.sc. Remzo Dedić"
+					},
+					{
+						"id": "-126",
+						"short": "Prof.dr.sc. Šimun Bogdan"
+					},
+					{
+						"id": "-68",
+						"short": "Prof.dr.sc.Snježana Rezić"
+					},
+					{
+						"id": "-72",
+						"short": "Prof.dr.sc. Sven Gotovac"
+					},
+					{
+						"id": "-107",
+						"short": "Prof.dr.sc. Vlado Majstorović"
+					},
+					{
+						"id": "-209",
+						"short": "Goran Martinović"
+					},
+					{
+						"id": "-213",
+						"short": "prof Tamara Grujić"
+					},
+					{
+						"id": "-207",
+						"short": "v. asist. Igor Bošnjak"
+					},
+					{
+						"id": "-91",
+						"short": "V. asist. Ivan Bevanda"
+					},
+					{
+						"id": "-60",
+						"short": "V.asist Tino Filipović"
+					},
+					{
+						"id": "-140",
+						"short": "V.asist. Darko Šunjić"
+					},
+					{
+						"id": "-124",
+						"short": "V.asist. Gordan Lješić"
+					},
+					{
+						"id": "-149",
+						"short": "V.asist. Igor Begić"
+					},
+					{
+						"id": "-76",
+						"short": "V.asist. Ivan Krasić"
+					},
+					{
+						"id": "-141",
+						"short": "V.asist. Slaven Pehar"
+					}
+				],
+				"data_columns": [
+					"short"
+				]
+			},
+			{
+				"id": "subjects",
+				"def": {
+					"id": "subjects",
+					"name": "Kolegiji",
+					"item_name": "Kolegij",
+					"icon": "/global/pics/ui/subject_32.svg"
+				},
+				"cdefs": [
+					{
+						"id": "name",
+						"type": "string",
+						"name": "Naziv"
+					},
+					{
+						"id": "short",
+						"type": "string",
+						"name": "Kratica"
+					}
+				],
+				"_uial": 0,
+				"data_rows": [
+					{
+						"id": "-504",
+						"name": "Akademija",
+						"short": "Akademija"
+					},
+					{
+						"id": "-463",
+						"name": "Algoritmi",
+						"short": "ALG"
+					},
+					{
+						"id": "-271",
+						"name": "Algoritmi - ispit",
+						"short": "ALG-ispit"
+					},
+					{
+						"id": "-82",
+						"name": "Analitički informacijski sustavi",
+						"short": "AIS"
+					},
+					{
+						"id": "-61",
+						"name": "Analitički informacijski sustavi",
+						"short": "AIS"
+					},
+					{
+						"id": "-305",
+						"name": "Analitički informacijski sustavi - ispit",
+						"short": "AIS-ispit"
+					},
+					{
+						"id": "-178",
+						"name": "Analitički informacijski sustavi - vježbe",
+						"short": "AIS"
+					},
+					{
+						"id": "-350",
+						"name": "Analiza elektroenergetskog sustava - ispit",
+						"short": "AEES-ispit"
+					},
+					{
+						"id": "-198",
+						"name": "Analiza elektroenergetskog sustava - kolokvij",
+						"short": "EEES- kolokvij"
+					},
+					{
+						"id": "-94",
+						"name": "Analiza elektrotenergetskog sustava",
+						"short": "AEES"
+					},
+					{
+						"id": "-464",
+						"name": "Arhitektura računala",
+						"short": "AR"
+					},
+					{
+						"id": "-272",
+						"name": "Arhitektura računala - ispit",
+						"short": "AR-ispit"
+					},
+					{
+						"id": "-86",
+						"name": "Automatizacija postrojenja i procesa",
+						"short": "APIP"
+					},
+					{
+						"id": "-362",
+						"name": "Automatizacija postrojenja i procesa - ispit",
+						"short": "APiP-ispit"
+					},
+					{
+						"id": "-426",
+						"name": "Automatizacija proizvodnje",
+						"short": "AP"
+					},
+					{
+						"id": "-236",
+						"name": "Automatizacija proizvodnje - ispit",
+						"short": "AP-ispit"
+					},
+					{
+						"id": "-509",
+						"name": "Automatizacija proizvodnje - kolokvij",
+						"short": "AP-kol"
+					},
+					{
+						"id": "-427",
+						"name": "Automatska regulacija",
+						"short": "AR"
+					},
+					{
+						"id": "-397",
+						"name": "Automatska regulacija - ispit",
+						"short": "AU-ispit"
+					},
+					{
+						"id": "-252",
+						"name": "Automatska regulacija - ispit",
+						"short": "AR-ispit"
+					},
+					{
+						"id": "-73",
+						"name": "Automatsko upravljanje",
+						"short": "AU"
+					},
+					{
+						"id": "-332",
+						"name": "Automatsko upravljanje - ispit",
+						"short": "AU-ispit"
+					},
+					{
+						"id": "-187",
+						"name": "Automatsko upravljanje - kolokvij",
+						"short": "AU-kol"
+					},
+					{
+						"id": "-428",
+						"name": "Automobilski mehatronički sustavi",
+						"short": "AMS"
+					},
+					{
+						"id": "-237",
+						"name": "Automobilski mehatronički sustavi - ispit",
+						"short": "AMS-ispit"
+					},
+					{
+						"id": "-465",
+						"name": "Baze podataka",
+						"short": "BP"
+					},
+					{
+						"id": "-273",
+						"name": "Baze podataka - ispit",
+						"short": "BP-ispit"
+					},
+					{
+						"id": "1",
+						"name": "Behaviour",
+						"short": "Beh"
+					},
+					{
+						"id": "-429",
+						"name": "Biomehatronika",
+						"short": "BIOMEH"
+					},
+					{
+						"id": "-410",
+						"name": "Biomehatronika - ispit",
+						"short": "BIOM-ispit"
+					},
+					{
+						"id": "-430",
+						"name": "CAD/CAM sustavi",
+						"short": "CAD/CAM"
+					},
+					{
+						"id": "-399",
+						"name": "CAD/CAM sustavi - ispit",
+						"short": "CAD/CAM-ispit"
+					},
+					{
+						"id": "-499",
+						"name": "CAD/CAM sustavi - stručni posjet Tehnološkom parku Intera (polazak ispred FSRE-a u 13:00 sati)",
+						"short": "CAD/CAM - Stručni posjet"
+					},
+					{
+						"id": "-133",
+						"name": "Čvrstoća konstrukcija",
+						"short": "ČK"
+					},
+					{
+						"id": "-244",
+						"name": "Čvrstoća konstrukcija - ispit",
+						"short": "ČK-ispit"
+					},
+					{
+						"id": "-122",
+						"name": "Deformacijski strojevi",
+						"short": "DS"
+					},
+					{
+						"id": "-384",
+						"name": "Deformacijski strojevi - ispit",
+						"short": "DS-ispit"
+					},
+					{
+						"id": "-71",
+						"name": "Digitalna elektronika",
+						"short": "DE"
+					},
+					{
+						"id": "-322",
+						"name": "Digitalna elektronika - ispit",
+						"short": "DE-ispit"
+					},
+					{
+						"id": "-196",
+						"name": "Digitalna elektronika - kolokvij",
+						"short": "DE - kol"
+					},
+					{
+						"id": "-174",
+						"name": "Digitalna elektronika - laboratorijske vježbe",
+						"short": "DE-LV"
+					},
+					{
+						"id": "-59",
+						"name": "Digitalna obrada i analiza slike",
+						"short": "DOiAS"
+					},
+					{
+						"id": "-302",
+						"name": "Digitalna obrada i analiza slike - ispit",
+						"short": "DOiAS-ispit"
+					},
+					{
+						"id": "-500",
+						"name": "Digitalna obrada signala",
+						"short": "DoS"
+					},
+					{
+						"id": "-300",
+						"name": "Digitalna obrada signala - ispit",
+						"short": "DOS-ispit"
+					},
+					{
+						"id": "-41",
+						"name": "Digitalni sustavi i strukture",
+						"short": "DSiS"
+					},
+					{
+						"id": "-267",
+						"name": "Digitalni sustavi i strukture - ispit",
+						"short": "DSiS-ispit"
+					},
+					{
+						"id": "-121",
+						"name": "Dijagnostika konstrukcija",
+						"short": "DK"
+					},
+					{
+						"id": "-114",
+						"name": "Dijagnostika konstrukcija",
+						"short": "DK"
+					},
+					{
+						"id": "-391",
+						"name": "Dijagnostika konstrukcija - ispit",
+						"short": "DK-ispit"
+					},
+					{
+						"id": "-490",
+						"name": "Dinamika elektroenergetskog sustava",
+						"short": "DES"
+					},
+					{
+						"id": "-368",
+						"name": "Dinamika elektroenergetskog sustava - ispit",
+						"short": "DES-ispit"
+					},
+					{
+						"id": "-54",
+						"name": "Distribuirani računalni sustavi",
+						"short": "DRS"
+					},
+					{
+						"id": "-287",
+						"name": "Distribuirani računalni sustavi - ispit",
+						"short": "DRS-ispit"
+					},
+					{
+						"id": "-167",
+						"name": "Distribuirani računalni sustavi - predavanja",
+						"short": "DRS"
+					},
+					{
+						"id": "-325",
+						"name": "Eelektrična mjerenja - ispit",
+						"short": "EM-ispit"
+					},
+					{
+						"id": "-324",
+						"name": "Eelektrični elementi i sklopovi - ispit",
+						"short": "EEiS-ispit"
+					},
+					{
+						"id": "-303",
+						"name": "Eelektroničko poslovanje - ispit",
+						"short": "EP-ispit"
+					},
+					{
+						"id": "-57",
+						"name": "Ekonomika i poslovno odlučivanje",
+						"short": "EiPO"
+					},
+					{
+						"id": "-288",
+						"name": "Ekonomika i poslovno odlučivanje - ispit",
+						"short": "EiPO-ispit"
+					},
+					{
+						"id": "-481",
+						"name": "Električna mjerenja",
+						"short": "EM"
+					},
+					{
+						"id": "-89",
+						"name": "Elektromagnetska kompatibilnost",
+						"short": "EK"
+					},
+					{
+						"id": "-343",
+						"name": "Elektromagnetska kompatibilnost - ispit",
+						"short": "EK-ispit"
+					},
+					{
+						"id": "-484",
+						"name": "Elektromehaničke pretvorbe",
+						"short": "EP"
+					},
+					{
+						"id": "-329",
+						"name": "Elektromehaničke pretvorbe - ispit",
+						"short": "EP-ispit"
+					},
+					{
+						"id": "-480",
+						"name": "Elektronički elementi i sklopovi",
+						"short": "EEiS"
+					},
+					{
+						"id": "-505",
+						"name": "Elektronički elementi i sklopovi (vježbe po grupama)",
+						"short": "EEiS (po grupama)"
+					},
+					{
+						"id": "-81",
+						"name": "Elektroničko poslovanje",
+						"short": "EP"
+					},
+					{
+						"id": "-62",
+						"name": "Elektroničko poslovanje",
+						"short": "EP"
+					},
+					{
+						"id": "-462",
+						"name": "Elektronika",
+						"short": "EL"
+					},
+					{
+						"id": "-262",
+						"name": "Elektronika - ispit",
+						"short": "EL-ispit"
+					},
+					{
+						"id": "-431",
+						"name": "Elektrotehnika",
+						"short": "ELT"
+					},
+					{
+						"id": "-226",
+						"name": "Elektrotehnika - ispit",
+						"short": "EL-ispit"
+					},
+					{
+						"id": "-487",
+						"name": "Elementi električnih postrojenja",
+						"short": "EEP"
+					},
+					{
+						"id": "-338",
+						"name": "Elementi električnih postrojenja - ispit",
+						"short": "EEP-ispit"
+					},
+					{
+						"id": "-101",
+						"name": "Elementi konstrukcija 1",
+						"short": "EK1"
+					},
+					{
+						"id": "-222",
+						"name": "Elementi konstrukcija 1 - ispit",
+						"short": "EK1-ispit"
+					},
+					{
+						"id": "-432",
+						"name": "Elementi konstrukcija 2",
+						"short": "EK2"
+					},
+					{
+						"id": "-228",
+						"name": "Elementi konstrukcija 2 - ispit",
+						"short": "EK2-ispit"
+					},
+					{
+						"id": "-492",
+						"name": "Energetika, okoliš i održivi razvoj",
+						"short": "EOiOR"
+					},
+					{
+						"id": "-365",
+						"name": "Energetika, okoliš i održivi razvoj - ispit",
+						"short": "EOiOR-ispit"
+					},
+					{
+						"id": "-195",
+						"name": "Energetska tržišta i ekonomika u energetici",
+						"short": "ETiEuE"
+					},
+					{
+						"id": "-360",
+						"name": "Energetska tržišta i ekonomika u energetici - ispit",
+						"short": "ETiEuE-ispit"
+					},
+					{
+						"id": "-418",
+						"name": "Energetska tržišta i ekonomika u energetici - kolokvij",
+						"short": "ETiEuE-kol"
+					},
+					{
+						"id": "-203",
+						"name": "Energetska tržišta i ekonomika u energetici - međuispit",
+						"short": "ETiEuE-međuispit"
+					},
+					{
+						"id": "-127",
+						"name": "Engleski jezik",
+						"short": "EJ"
+					},
+					{
+						"id": "-68",
+						"name": "Engleski jezik 1",
+						"short": "EJ1"
+					},
+					{
+						"id": "-313",
+						"name": "Engleski jezik 1 - ispit",
+						"short": "EJ1-ispit"
+					},
+					{
+						"id": "-270",
+						"name": "Engleski jezik 1 - ispit",
+						"short": "EJ1-ispit"
+					},
+					{
+						"id": "-155",
+						"name": "Engleski jezik 1 / Tehnički engleski jezik",
+						"short": "EJ1"
+					},
+					{
+						"id": "-468",
+						"name": "Engleski jezik 2",
+						"short": "EJ2"
+					},
+					{
+						"id": "-318",
+						"name": "Engleski jezik 2 - ispit",
+						"short": "EJ2-ispit"
+					},
+					{
+						"id": "-276",
+						"name": "Engleski jezik 2 - ispit",
+						"short": "EJ2-ispit"
+					},
+					{
+						"id": "-72",
+						"name": "Engleski jezik 3",
+						"short": "EJ3"
+					},
+					{
+						"id": "-323",
+						"name": "Engleski jezik 3 - ispit",
+						"short": "EJ3-ispit"
+					},
+					{
+						"id": "-502",
+						"name": "Farmacija",
+						"short": "Farmacija"
+					},
+					{
+						"id": "-147",
+						"name": "Fizika",
+						"short": "FIZIKA"
+					},
+					{
+						"id": "-128",
+						"name": "Fizika ",
+						"short": "FIZ"
+					},
+					{
+						"id": "-257",
+						"name": "Fizika - ispit",
+						"short": "FIZ-ispit"
+					},
+					{
+						"id": "-212",
+						"name": "Fizika - ispit",
+						"short": "FIZ-ispit"
+					},
+					{
+						"id": "-185",
+						"name": "Fizika - kolokvij",
+						"short": "FIZ-kol"
+					},
+					{
+						"id": "-424",
+						"name": "Fizika - usmeni ispit",
+						"short": "FIZ-ispit"
+					},
+					{
+						"id": "-169",
+						"name": "Fizika - vježbe",
+						"short": "FIZ"
+					},
+					{
+						"id": "-472",
+						"name": "Fizika 1",
+						"short": "FIZ1"
+					},
+					{
+						"id": "-315",
+						"name": "Fizika 1 - ispit",
+						"short": "FIZ1-ispit"
+					},
+					{
+						"id": "-506",
+						"name": "Fizika 1 - laboratorijske vježbe",
+						"short": "FIZ1-lab.vježbe"
+					},
+					{
+						"id": "-70",
+						"name": "Fizika 2",
+						"short": "FIZ2"
+					},
+					{
+						"id": "-320",
+						"name": "Fizika 2 - ispit",
+						"short": "FIZ2-ispit"
+					},
+					{
+						"id": "-423",
+						"name": "Fizika 2 - usmeni ispit",
+						"short": "FIZ2 - usmeni"
+					},
+					{
+						"id": "-165",
+						"name": "Fizika 2 kolokvij",
+						"short": "FIZ2 kol"
+					},
+					{
+						"id": "-163",
+						"name": "Fizika kolokvij od 8:00",
+						"short": "FIZ kolokvij od 8:00"
+					},
+					{
+						"id": "-164",
+						"name": "Fizika kolokvij od 9:00",
+						"short": "Fizika kol od 9:00"
+					},
+					{
+						"id": "-111",
+						"name": "Fleksibilni proizvodni sustavi",
+						"short": "FPS"
+					},
+					{
+						"id": "-386",
+						"name": "Fleksibilni proizvodni sustavi - ispit",
+						"short": "FPS-ispit"
+					},
+					{
+						"id": "-179",
+						"name": "Grafičko programiranje",
+						"short": "GP"
+					},
+					{
+						"id": "-344",
+						"name": "Grafičko programiranje - ispit",
+						"short": "GP-ispit"
+					},
+					{
+						"id": "-80",
+						"name": "Grid i oblak računarstvo",
+						"short": "GIOR"
+					},
+					{
+						"id": "-78",
+						"name": "Grid i oblak računarstvo",
+						"short": "GiOR"
+					},
+					{
+						"id": "-307",
+						"name": "Grid i oblak računarstvo - ispit",
+						"short": "GiOR-ispit"
+					},
+					{
+						"id": "-182",
+						"name": "Grid i oblak računarstvo - kolokvij",
+						"short": "GiOR-kol"
+					},
+					{
+						"id": "-148",
+						"name": "Grid i oblak računarstvo - predavanja",
+						"short": "GiOR"
+					},
+					{
+						"id": "-149",
+						"name": "Grid i oblak računarstvo - vježbe",
+						"short": "GIOR"
+					},
+					{
+						"id": "-120",
+						"name": "Industrijski dizajn",
+						"short": "ID"
+					},
+					{
+						"id": "-375",
+						"name": "Industrijski dizajn - ispit",
+						"short": "ID-ispit"
+					},
+					{
+						"id": "-482",
+						"name": "Informacije i komunikacije",
+						"short": "IiK"
+					},
+					{
+						"id": "-327",
+						"name": "Informacije i komunikacije - ispit",
+						"short": "IiK-ispit"
+					},
+					{
+						"id": "-112",
+						"name": "Integrirani razvoj proizvoda",
+						"short": "IRP"
+					},
+					{
+						"id": "-389",
+						"name": "Integrirani razvoj proizvoda - ispit",
+						"short": "IRP-ispit"
+					},
+					{
+						"id": "-107",
+						"name": "Inteligentni CAD sustavi",
+						"short": "ICS"
+					},
+					{
+						"id": "-388",
+						"name": "Inteligentni CAD sustavi - ispit",
+						"short": "ICS-ispit"
+					},
+					{
+						"id": "-494",
+						"name": "Inteligentni sustavi upravljanja",
+						"short": "ISU"
+					},
+					{
+						"id": "-420",
+						"name": "Inteligentni sustavi upravljanja - ispit",
+						"short": "ISU-ispit"
+					},
+					{
+						"id": "-460",
+						"name": "Internet i web tehnologije",
+						"short": "IWT"
+					},
+					{
+						"id": "-263",
+						"name": "Internet i web tehnologije - ispit",
+						"short": "IWT-ispit"
+					},
+					{
+						"id": "-98",
+						"name": "Inženjerska grafika i CAD",
+						"short": "IGiCAD"
+					},
+					{
+						"id": "-214",
+						"name": "Inženjerska grafika i CAD - ispit",
+						"short": "IGiCAD-ispit"
+					},
+					{
+						"id": "-67",
+						"name": "Inženjerska grafika i prezentacija",
+						"short": "IGiP"
+					},
+					{
+						"id": "-311",
+						"name": "Inženjerska grafika i prezentacija - ispit",
+						"short": "IGiP-ispit"
+					},
+					{
+						"id": "-176",
+						"name": "Javni razgovor",
+						"short": "JR"
+					},
+					{
+						"id": "-138",
+						"name": "Kinematika i dinamika mehanizama",
+						"short": "KiDM"
+					},
+					{
+						"id": "-251",
+						"name": "Kinematika i dinamika mehanizama - ispit",
+						"short": "KiDM-ispit"
+					},
+					{
+						"id": "-517",
+						"name": "Komunikacijske vještine",
+						"short": "KV"
+					},
+					{
+						"id": "-433",
+						"name": "Konstruiranje alata",
+						"short": "KA"
+					},
+					{
+						"id": "-398",
+						"name": "Konstruiranje alata - ispit",
+						"short": "KA-ispit"
+					},
+					{
+						"id": "-129",
+						"name": "Konstruiranje mehanizama",
+						"short": "KM"
+					},
+					{
+						"id": "-243",
+						"name": "Konstruiranje mehanizama - ispit",
+						"short": "KM-ispit"
+					},
+					{
+						"id": "-132",
+						"name": "Konstruiranje pomoću računala - CAD",
+						"short": "KPR-CAD"
+					},
+					{
+						"id": "-241",
+						"name": "Konstruiranje pomoću računala - CAD - ispit",
+						"short": "KPR-CAD-ispit"
+					},
+					{
+						"id": "-119",
+						"name": "Konstruiranje strojeva i opreme",
+						"short": "KSiO"
+					},
+					{
+						"id": "-374",
+						"name": "Konstruiranje strojeva i opreme - ispit",
+						"short": "KSiO-ispit"
+					},
+					{
+						"id": "-434",
+						"name": "Kontrola kvalitete",
+						"short": "KK"
+					},
+					{
+						"id": "-404",
+						"name": "Kontrola kvalitete - ispit",
+						"short": "KK-ispit"
+					},
+					{
+						"id": "-56",
+						"name": "Korisnička sučelja",
+						"short": "KS"
+					},
+					{
+						"id": "-290",
+						"name": "Korisnička sučelja - ispit",
+						"short": "KS-ispit"
+					},
+					{
+						"id": "-93",
+						"name": "Kvaliteta opskrbe električnom energijom",
+						"short": "KOEE"
+					},
+					{
+						"id": "-351",
+						"name": "Kvaliteta opskrbe električnom energijom - ispit",
+						"short": "KOEE-ispit"
+					},
+					{
+						"id": "-37",
+						"name": "Matematika 1 ",
+						"short": "MAT1"
+					},
+					{
+						"id": "-456",
+						"name": "Matematika 1 - dodatna nastava",
+						"short": "MAT1-dodatna"
+					},
+					{
+						"id": "-308",
+						"name": "Matematika 1 - ispit",
+						"short": "MAT1-ispit"
+					},
+					{
+						"id": "-256",
+						"name": "Matematika 1 - ispit",
+						"short": "MAT1-ispit"
+					},
+					{
+						"id": "-210",
+						"name": "Matematika 1 - ispit",
+						"short": "MAT1-ispit"
+					},
+					{
+						"id": "-170",
+						"name": "Matematika 1 - kolokvij",
+						"short": "MAT1 kol"
+					},
+					{
+						"id": "-475",
+						"name": "Matematika 2",
+						"short": "MAT2"
+					},
+					{
+						"id": "-459",
+						"name": "Matematika 2",
+						"short": "MAT2"
+					},
+					{
+						"id": "-435",
+						"name": "Matematika 2",
+						"short": "MAT2"
+					},
+					{
+						"id": "-314",
+						"name": "Matematika 2 - ispit",
+						"short": "MAT2-ispit"
+					},
+					{
+						"id": "-261",
+						"name": "Matematika 2 - ispit",
+						"short": "M2-ispit"
+					},
+					{
+						"id": "-215",
+						"name": "Matematika 2 - ispit",
+						"short": "MAT2-ispit"
+					},
+					{
+						"id": "-69",
+						"name": "Matematika 3",
+						"short": "MAT3"
+					},
+					{
+						"id": "-319",
+						"name": "Matematika 3 - ispit",
+						"short": "MAT3-ispit"
+					},
+					{
+						"id": "-220",
+						"name": "Matematika 3 - ispit",
+						"short": "MAT3-ispit"
+					},
+					{
+						"id": "-208",
+						"name": "Matematika 3 - kolokvij",
+						"short": "MAT3-kol"
+					},
+					{
+						"id": "-425",
+						"name": "Matematika I - dodatna nastava",
+						"short": "MAT1-dodatna"
+					},
+					{
+						"id": "-436",
+						"name": "Materijali 1",
+						"short": "M1"
+					},
+					{
+						"id": "-217",
+						"name": "Materijali 1 - ispit",
+						"short": "M1-ispit"
+					},
+					{
+						"id": "-221",
+						"name": "Materijali 2 - ispit",
+						"short": "M2-ispit"
+					},
+					{
+						"id": "-100",
+						"name": "Materijali II",
+						"short": "MAT2"
+					},
+					{
+						"id": "-96",
+						"name": "Mehanika 1",
+						"short": "MEH1"
+					},
+					{
+						"id": "-211",
+						"name": "Mehanika 1 - ispit",
+						"short": "MEH1-ispit"
+					},
+					{
+						"id": "-437",
+						"name": "Mehanika 2",
+						"short": "MEH2"
+					},
+					{
+						"id": "-218",
+						"name": "Mehanika 2 - ispit",
+						"short": "MEH2-ispit"
+					},
+					{
+						"id": "-438",
+						"name": "Mehanika fluida",
+						"short": "MF"
+					},
+					{
+						"id": "-227",
+						"name": "Mehanika fluida - ispit",
+						"short": "MF-ispit"
+					},
+					{
+						"id": "-152",
+						"name": "Mehatronički sustavi",
+						"short": "MS"
+					},
+					{
+						"id": "-412",
+						"name": "Mehatronički sustavi - ispit",
+						"short": "MS-ispit"
+					},
+					{
+						"id": "-348",
+						"name": "Mehatronički sustavi - ispit",
+						"short": "MS-ispit"
+					},
+					{
+						"id": "-382",
+						"name": "Mehatronički sustavi - kolokvij",
+						"short": "MS-kol"
+					},
+					{
+						"id": "-49",
+						"name": "Menadžment",
+						"short": "MEN"
+					},
+					{
+						"id": "-473",
+						"name": "Menadžment/Osnove menadžmenta",
+						"short": "MEN"
+					},
+					{
+						"id": "-474",
+						"name": "Menadžment/Osnove menadžmenta - ispit",
+						"short": "MEN-ispit"
+					},
+					{
+						"id": "-511",
+						"name": "Metode kolokvij",
+						"short": "Metode kolokvij"
+					},
+					{
+						"id": "-476",
+						"name": "Metode optimizacije",
+						"short": "MO"
+					},
+					{
+						"id": "-293",
+						"name": "Metode optimizacije - ispit",
+						"short": "MO-ispit"
+					},
+					{
+						"id": "-439",
+						"name": "Metodičko konstruiranje",
+						"short": "MK"
+					},
+					{
+						"id": "-246",
+						"name": "Metodičko konstruiranje - ispit",
+						"short": "MK-ispit"
+					},
+					{
+						"id": "-125",
+						"name": "Mikrokontroleri u proizvodnji",
+						"short": "MuP"
+					},
+					{
+						"id": "-387",
+						"name": "Mikrokontroleri u proizvodnji - ispit",
+						"short": "MUP-ispit"
+					},
+					{
+						"id": "-113",
+						"name": "Mjerni uređaji i senzori",
+						"short": "MUiS"
+					},
+					{
+						"id": "-390",
+						"name": "Mjerni uređaji i senzori - ispit",
+						"short": "MUiS-ispit"
+					},
+					{
+						"id": "-254",
+						"name": "Mjerni uređaji i senzori - ispit",
+						"short": "MUiS-ispit"
+					},
+					{
+						"id": "-367",
+						"name": "Mobilna robotika - ispit",
+						"short": "MR-ispit"
+					},
+					{
+						"id": "-440",
+						"name": "Modeliranje i proračun mehaničkih konstrukcija",
+						"short": "MiPMK"
+					},
+					{
+						"id": "-396",
+						"name": "Modeliranje i proračun mehaničkih konstrukcija - ispit",
+						"short": "MiPMK-ispit"
+					},
+					{
+						"id": "-441",
+						"name": "Modeliranje i simulacija proizvodnih procesa",
+						"short": "MiSPP"
+					},
+					{
+						"id": "-408",
+						"name": "Modeliranje i simulacija proizvodnih procesa - ispit",
+						"short": "MiSPP-ispit"
+					},
+					{
+						"id": "-75",
+						"name": "Modeliranje i simuliranje sustava",
+						"short": "MISS"
+					},
+					{
+						"id": "-334",
+						"name": "Modeliranje i simuliranje sustava - ispit",
+						"short": "MiSS-ispit"
+					},
+					{
+						"id": "-199",
+						"name": "Modeliranje i simuliranje sustava - kolokvij",
+						"short": "MiSS - kol"
+					},
+					{
+						"id": "-422",
+						"name": "Modeliranje i simuliranje sustava - usmeni ispit",
+						"short": "MiSS-usmeni"
+					},
+					{
+						"id": "-175",
+						"name": "Modeliranje i simuliranje sustava - vježbe",
+						"short": "MiSS"
+					},
+					{
+						"id": "-171",
+						"name": "Motori i motorna vozila",
+						"short": "MiMV"
+					},
+					{
+						"id": "-394",
+						"name": "Motori i motorna vozila - ispit",
+						"short": "MiMV-ispit"
+					},
+					{
+						"id": "-79",
+						"name": "Multimedijski sustavi",
+						"short": "MS"
+					},
+					{
+						"id": "-301",
+						"name": "Multimedijski sustavi - ispit",
+						"short": "MS-ispit"
+					},
+					{
+						"id": "-371",
+						"name": "Multimedijski sustavi - kolokvij",
+						"short": "MS-kolokvij"
+					},
+					{
+						"id": "-501",
+						"name": "Napredne arhitekture računala",
+						"short": "NAR"
+					},
+					{
+						"id": "-298",
+						"name": "Napredne arhitekture računala - ispit",
+						"short": "NAR-ispit"
+					},
+					{
+						"id": "-91",
+						"name": "Napredne tehnike upravljanja sustavima",
+						"short": "NTUS"
+					},
+					{
+						"id": "-346",
+						"name": "Napredne tehnike upravljanja sustavima - ispit",
+						"short": "NTUS-ispit"
+					},
+					{
+						"id": "-60",
+						"name": "Napredni algoritmi i strukture podataka",
+						"short": "NAiSP"
+					},
+					{
+						"id": "-304",
+						"name": "Napredni algoritmi i strukture podataka - ispit",
+						"short": "NAiSP-ispit"
+					},
+					{
+						"id": "-102",
+						"name": "Nauka o čvrstoći",
+						"short": "NoČ"
+					},
+					{
+						"id": "-223",
+						"name": "Nauka o čvrstoći - ispit",
+						"short": "NoČ-ispit"
+					},
+					{
+						"id": "-186",
+						"name": "Nauka o čvrstoći - kolokvij",
+						"short": "NoČ - kolokvij"
+					},
+					{
+						"id": "-493",
+						"name": "Niskonaponske električne instalacije i rasvjeta",
+						"short": "NEIiR"
+					},
+					{
+						"id": "-369",
+						"name": "Niskonaponske električne instalacije i rasvjeta - ispit",
+						"short": "NEIiR-ispit"
+					},
+					{
+						"id": "-173",
+						"name": "Njemački jezik",
+						"short": "NjJ"
+					},
+					{
+						"id": "-379",
+						"name": "Njemački jezik - ispit",
+						"short": "NjJ-ispit"
+					},
+					{
+						"id": "-239",
+						"name": "Njemački jezik - ispit",
+						"short": "NjJ-ispit"
+					},
+					{
+						"id": "-153",
+						"name": "Nove tehnologije oblikovanja",
+						"short": "NTO"
+					},
+					{
+						"id": "-405",
+						"name": "Nove tehnologije oblikovanja - ispit",
+						"short": "NTO-ispit"
+					},
+					{
+						"id": "-110",
+						"name": "Nove tehnologije obrade odvajanjem čestica",
+						"short": "NTOOČ"
+					},
+					{
+						"id": "-383",
+						"name": "Nove tehnologije obrade odvajanjem čestica - ispit",
+						"short": "NTOOČ-ispit"
+					},
+					{
+						"id": "-115",
+						"name": "Numeričke metode analize konstrukcija",
+						"short": "NMAK"
+					},
+					{
+						"id": "-392",
+						"name": "Numeričke metode analize konstrukcija - ispit",
+						"short": "NMAK-ispit"
+					},
+					{
+						"id": "-151",
+						"name": "Numerički upravljani alatni strojevi",
+						"short": "NUAS"
+					},
+					{
+						"id": "-402",
+						"name": "Numerički upravljani alatni strojevi - ispit",
+						"short": "NUAS-ispit"
+					},
+					{
+						"id": "-442",
+						"name": "Obilokovanje pomoću računala",
+						"short": "OPR"
+					},
+					{
+						"id": "-44",
+						"name": "Objektno orijentirano programiranje",
+						"short": "OOP"
+					},
+					{
+						"id": "-265",
+						"name": "Objektno orijentirano programiranje - ispit",
+						"short": "OOP-ispit"
+					},
+					{
+						"id": "-192",
+						"name": "Objektno orijentirano programiranje - kolokvij",
+						"short": "OOP - kol"
+					},
+					{
+						"id": "-503",
+						"name": "Oblikovanje pomoću računala",
+						"short": "OPR"
+					},
+					{
+						"id": "-216",
+						"name": "Oblikovanje pomoću računala - ispit",
+						"short": "OPR-ispit"
+					},
+					{
+						"id": "-77",
+						"name": "Obnovljivi izvori energije",
+						"short": "OIE"
+					},
+					{
+						"id": "-336",
+						"name": "Obnovljivi izvori energije - ispit",
+						"short": "OIE-ispit"
+					},
+					{
+						"id": "-135",
+						"name": "Obrada deformiranjem",
+						"short": "OD"
+					},
+					{
+						"id": "-232",
+						"name": "Obrada deformiranjem - ispit",
+						"short": "OD-ispit"
+					},
+					{
+						"id": "-134",
+						"name": "Obrada odvajanjem čestica",
+						"short": "OOČ"
+					},
+					{
+						"id": "-234",
+						"name": "Obrada odvajanjem čestica - ispit",
+						"short": "OOČ-ispit"
+					},
+					{
+						"id": "-513",
+						"name": "Obrana praksi",
+						"short": "Obrana praksi"
+					},
+					{
+						"id": "-522",
+						"name": "Obrana završnog rada",
+						"short": "OZR"
+					},
+					{
+						"id": "-105",
+						"name": "Održavanje",
+						"short": "OD"
+					},
+					{
+						"id": "-378",
+						"name": "Održavanje - ispit",
+						"short": "OD-ispit"
+					},
+					{
+						"id": "-46",
+						"name": "Operacijski sustavi",
+						"short": "OS"
+					},
+					{
+						"id": "-277",
+						"name": "Operacijski sustavi - ispit",
+						"short": "OS-ispit"
+					},
+					{
+						"id": "-51",
+						"name": "Optičke komunikacije",
+						"short": "OK"
+					},
+					{
+						"id": "-280",
+						"name": "Optičke komunikacije - ispit",
+						"short": "OK-ispit"
+					},
+					{
+						"id": "-117",
+						"name": "Optimiranje konstrukcija",
+						"short": "OK"
+					},
+					{
+						"id": "-372",
+						"name": "Optimiranje konstrukcija - ispit",
+						"short": "OK-ispit"
+					},
+					{
+						"id": "-137",
+						"name": "Organizacija i ekonomika proizvodnje",
+						"short": "OiEP"
+					},
+					{
+						"id": "-326",
+						"name": "Organizacija i ekonomika proizvodnje - ispit",
+						"short": "OiEP-ispit"
+					},
+					{
+						"id": "-230",
+						"name": "Organizacija i ekonomika proizvodnje - ispit",
+						"short": "OiEP-ispit"
+					},
+					{
+						"id": "-142",
+						"name": "Osiguranje kvalitete zavarenih konstrukcija",
+						"short": "OKZK"
+					},
+					{
+						"id": "-406",
+						"name": "Osiguranje kvalitete zavarenih konstrukcija - ispit",
+						"short": "OKZK-ispit"
+					},
+					{
+						"id": "-485",
+						"name": "Osnove automatizacije",
+						"short": "OA"
+					},
+					{
+						"id": "-341",
+						"name": "Osnove automatizacije - ispit",
+						"short": "OA-ispit"
+					},
+					{
+						"id": "-483",
+						"name": "Osnove elektroenergetike",
+						"short": "OE"
+					},
+					{
+						"id": "-328",
+						"name": "Osnove elektroenergetike - ispit",
+						"short": "OE-ispit"
+					},
+					{
+						"id": "-39",
+						"name": "Osnove elektrotehnike ",
+						"short": "OE"
+					},
+					{
+						"id": "-258",
+						"name": "Osnove elektrotehnike - ispit",
+						"short": "OE-ispit"
+					},
+					{
+						"id": "-154",
+						"name": "Osnove elektrotehnike - vježbe",
+						"short": "OE"
+					},
+					{
+						"id": "-66",
+						"name": "Osnove elektrotehnike 1",
+						"short": "OE1"
+					},
+					{
+						"id": "-150",
+						"name": "Osnove elektrotehnike 1 - auditorne vježbe",
+						"short": "OE1"
+					},
+					{
+						"id": "-309",
+						"name": "Osnove elektrotehnike 1 - ispit",
+						"short": "OE1-ispit"
+					},
+					{
+						"id": "-331",
+						"name": "Osnove elektrotehnike 1 - kolokvij",
+						"short": "OE1-kol"
+					},
+					{
+						"id": "-168",
+						"name": "Osnove elektrotehnike 1 - Laboratorijske vježbe",
+						"short": "OE1-LV"
+					},
+					{
+						"id": "-495",
+						"name": "Osnove elektrotehnike 2",
+						"short": "OE2"
+					},
+					{
+						"id": "-316",
+						"name": "Osnove elektrotehnike 2 - ispit",
+						"short": "OE2-ispit"
+					},
+					{
+						"id": "-87",
+						"name": "Osnove identifikacije procesa",
+						"short": "OIP"
+					},
+					{
+						"id": "-366",
+						"name": "Osnove identifikacije procesa - ispit",
+						"short": "OIP-ispit"
+					},
+					{
+						"id": "-443",
+						"name": "Osnove menadžmenta",
+						"short": "OM"
+					},
+					{
+						"id": "-219",
+						"name": "Osnove menadžmenta - ispit",
+						"short": "OM-ispit"
+					},
+					{
+						"id": "-201",
+						"name": "Osnove poduzetništva",
+						"short": "OP"
+					},
+					{
+						"id": "-354",
+						"name": "Osnove poduzetništva - ispit",
+						"short": "OP-ispit"
+					},
+					{
+						"id": "-85",
+						"name": "Osnove robotike",
+						"short": "OR"
+					},
+					{
+						"id": "-356",
+						"name": "Osnove robotike - ispit",
+						"short": "OR-ispit"
+					},
+					{
+						"id": "-414",
+						"name": "Osnove robotike - kolokvij",
+						"short": "OR-kol"
+					},
+					{
+						"id": "-207",
+						"name": "Osnove robotike - kolokvij od 08:30",
+						"short": "OR-kol"
+					},
+					{
+						"id": "-417",
+						"name": "Osnove upravljana električnim strojevima - kolokvij",
+						"short": "Oues-k"
+					},
+					{
+						"id": "-74",
+						"name": "Osnove upravljanja električnim strojevima",
+						"short": "OUES"
+					},
+					{
+						"id": "-333",
+						"name": "Osnove upravljanja električnim strojevima - ispit",
+						"short": "OUES-ispit"
+					},
+					{
+						"id": "-444",
+						"name": "Osnove vibracijske dijagnostike",
+						"short": "OVD"
+					},
+					{
+						"id": "-238",
+						"name": "Osnove vibracijske dijagnostike - ispit",
+						"short": "OVD-ispit"
+					},
+					{
+						"id": "-477",
+						"name": "Osnove znanstvenog računanja",
+						"short": "OZR"
+					},
+					{
+						"id": "-294",
+						"name": "Osnove znanstvenog računanja - ispit",
+						"short": "OZR-ispit"
+					},
+					{
+						"id": "-130",
+						"name": "Pneumatika i hidraulika",
+						"short": "PiH"
+					},
+					{
+						"id": "-245",
+						"name": "Pneumatika i hidraulika - ispit",
+						"short": "PiH-ispit"
+					},
+					{
+						"id": "-457",
+						"name": "Poduzetništvo i računarstvo",
+						"short": "PiR"
+					},
+					{
+						"id": "-284",
+						"name": "Poduzetništvo i računarstvo - ispit",
+						"short": "PiR-ispit"
+					},
+					{
+						"id": "-516",
+						"name": "Pozdravni govor Rektora",
+						"short": "Pozdravni govor Rektora"
+					},
+					{
+						"id": "-512",
+						"name": "Praksa - prezentacija",
+						"short": "Praksa - prezentacija"
+					},
+					{
+						"id": "-488",
+						"name": "Prijenos i distribucija električne energije",
+						"short": "PiDEE"
+					},
+					{
+						"id": "-339",
+						"name": "Prijenos i distribucija električne energije - ispit",
+						"short": "PiDEE-ispit"
+					},
+					{
+						"id": "-143",
+						"name": "Pripremna nastava iz Matematike",
+						"short": "PNiM"
+					},
+					{
+						"id": "-508",
+						"name": "Pripremna nastava za predmet CAD/CAM sustavi",
+						"short": "CAD - pripremna"
+					},
+					{
+						"id": "-507",
+						"name": "Pripremna nastava za predmet CAD/CAM sustavvi",
+						"short": "CAD - pripremna"
+					},
+					{
+						"id": "-40",
+						"name": "Programiranje 1 ",
+						"short": "P1"
+					},
+					{
+						"id": "-310",
+						"name": "Programiranje 1 - ispit",
+						"short": "P1-ispit"
+					},
+					{
+						"id": "-255",
+						"name": "Programiranje 1 - ispit",
+						"short": "P1-ispit"
+					},
+					{
+						"id": "-194",
+						"name": "Programiranje 1 - kolokvij",
+						"short": "P1-kol"
+					},
+					{
+						"id": "-416",
+						"name": "Programiranje 1 - vježbe",
+						"short": "P1-vježbe"
+					},
+					{
+						"id": "-471",
+						"name": "Programiranje 2",
+						"short": "P2"
+					},
+					{
+						"id": "-458",
+						"name": "Programiranje 2",
+						"short": "P2"
+					},
+					{
+						"id": "-317",
+						"name": "Programiranje 2 - ispit",
+						"short": "P2-ispit"
+					},
+					{
+						"id": "-260",
+						"name": "Programiranje 2 - ispit",
+						"short": "P2-ispit"
+					},
+					{
+						"id": "-445",
+						"name": "Programiranje i algoritmi",
+						"short": "PiA"
+					},
+					{
+						"id": "-247",
+						"name": "Programiranje i algoritmi - ispit",
+						"short": "PiA-ispit"
+					},
+					{
+						"id": "-52",
+						"name": "Programiranje u Javi",
+						"short": "PuJ"
+					},
+					{
+						"id": "-281",
+						"name": "Programiranje u Javi - ispit",
+						"short": "PuJ-ispit"
+					},
+					{
+						"id": "-469",
+						"name": "Programsko inženjerstvo",
+						"short": "PI"
+					},
+					{
+						"id": "-283",
+						"name": "Programsko inženjerstvo - ispit",
+						"short": "PI-ispit"
+					},
+					{
+						"id": "-139",
+						"name": "Proizvodni postupci, strojevi i oprema",
+						"short": "PPSiO"
+					},
+					{
+						"id": "-253",
+						"name": "Proizvodni postupci, strojevi i oprema - ispit",
+						"short": "PPSiO-ispit"
+					},
+					{
+						"id": "-446",
+						"name": "Proizvodnja podržana računalom - CAM",
+						"short": "PPR-CAM"
+					},
+					{
+						"id": "-400",
+						"name": "Proizvodnja podržana računalom - CAM - ispit",
+						"short": "PPR-CAM-ispit"
+					},
+					{
+						"id": "-92",
+						"name": "Projektiranje električnih postrojenja",
+						"short": "PEP"
+					},
+					{
+						"id": "-349",
+						"name": "Projektiranje električnih postrojenja - ispit",
+						"short": "PEP-ispit"
+					},
+					{
+						"id": "-159",
+						"name": "Projektiranje elektroničkih uređaja",
+						"short": "PEU"
+					},
+					{
+						"id": "-358",
+						"name": "Projektiranje elektroničkih uređaja - ispit",
+						"short": "PEU-ispit"
+					},
+					{
+						"id": "-55",
+						"name": "Projektiranje informacijskih sustava",
+						"short": "PIS"
+					},
+					{
+						"id": "-289",
+						"name": "Projektiranje informacijskih sustava - ispit",
+						"short": "PIS-ispit"
+					},
+					{
+						"id": "-108",
+						"name": "Projektiranje proizvodnih sustava",
+						"short": "PPS"
+					},
+					{
+						"id": "-385",
+						"name": "Projektiranje proizvodnih sustava - ispit",
+						"short": "PPS-ispit"
+					},
+					{
+						"id": "-63",
+						"name": "Projektiranje računalnih mreža",
+						"short": "PRM"
+					},
+					{
+						"id": "-291",
+						"name": "Projektiranje računalnih mreža - ispit",
+						"short": "PRM-ispit"
+					},
+					{
+						"id": "-415",
+						"name": "Projektiranje računalnih mreža - kolokvij",
+						"short": "PRM-kolokvij"
+					},
+					{
+						"id": "-90",
+						"name": "Projektiranje ugradbenih računalnih sustava",
+						"short": "PURS"
+					},
+					{
+						"id": "-347",
+						"name": "Projektiranje ugradbenih računalnih sustava - ispit",
+						"short": "PURS-ispit"
+					},
+					{
+						"id": "-461",
+						"name": "Računalna grafika i dokumentiranje",
+						"short": "RGiD"
+					},
+					{
+						"id": "-264",
+						"name": "Računalna grafika i dokumentiranje - ispit",
+						"short": "RGiD-ispit"
+					},
+					{
+						"id": "-466",
+						"name": "Računalna matematika",
+						"short": "RM"
+					},
+					{
+						"id": "-274",
+						"name": "Računalna matematika - ispit",
+						"short": "RM-ispit"
+					},
+					{
+						"id": "-47",
+						"name": "Računalne mreže",
+						"short": "RM"
+					},
+					{
+						"id": "-278",
+						"name": "Računalne mreže - ispit",
+						"short": "RM-ispit"
+					},
+					{
+						"id": "-104",
+						"name": "Računalne simulacije",
+						"short": "RS"
+					},
+					{
+						"id": "-376",
+						"name": "Računalne simulacije - ispit",
+						"short": "RS-ispit"
+					},
+					{
+						"id": "-486",
+						"name": "Računalno upravljanje sustavima",
+						"short": "RUS"
+					},
+					{
+						"id": "-340",
+						"name": "Računalno upravljanje sustavima - ispit",
+						"short": "RUS-ispit"
+					},
+					{
+						"id": "-146",
+						"name": "Razdjelne mreže i distribuirana proizvodnja",
+						"short": "RMiDP"
+					},
+					{
+						"id": "-359",
+						"name": "Razdjelne mreže i distribuirana proizvodnja - ispit",
+						"short": "RMiDP-ispit"
+					},
+					{
+						"id": "-202",
+						"name": "Razdjelne mreže i distriibuirana proizvodnja - predrok",
+						"short": "RMiDP - predrok"
+					},
+					{
+						"id": "-514",
+						"name": "Razredbeni ispit",
+						"short": "RI"
+					},
+					{
+						"id": "-447",
+						"name": "Razvoj i 3D printanje proizvoda",
+						"short": "Ri3DPP"
+					},
+					{
+						"id": "-401",
+						"name": "Razvoj i 3D printanje proizvoda - ispit",
+						"short": "Ri3DP-ispit"
+					},
+					{
+						"id": "-479",
+						"name": "Razvoj naprednih web aplikacija",
+						"short": "RNWA"
+					},
+					{
+						"id": "-297",
+						"name": "Razvoj naprednih web aplikacija - ispit",
+						"short": "RNWA-ispit"
+					},
+					{
+						"id": "-48",
+						"name": "Razvoj web aplikacija",
+						"short": "RWA"
+					},
+					{
+						"id": "-279",
+						"name": "Razvoj web aplikacija - ispit",
+						"short": "RWA-ispit"
+					},
+					{
+						"id": "-330",
+						"name": "Razvoj web aplikacija - kolokvij",
+						"short": "RWA-kol"
+					},
+					{
+						"id": "-160",
+						"name": "Rezerviran termin u dogovoru sa studentima",
+						"short": "Rezervirano"
+					},
+					{
+						"id": "-172",
+						"name": "Rezervirana učionica",
+						"short": "Rezervirana učionica"
+					},
+					{
+						"id": "-183",
+						"name": "Rezervirano (struja)",
+						"short": "Rezervirano-struja"
+					},
+					{
+						"id": "-448",
+						"name": "Robotika",
+						"short": "ROB"
+					},
+					{
+						"id": "-409",
+						"name": "Robotika - ispit",
+						"short": "ROB-ispit"
+					},
+					{
+						"id": "-200",
+						"name": "RWA-kolokvij od 10:00 do 11:00",
+						"short": "RWA-kol od 10:00"
+					},
+					{
+						"id": "-204",
+						"name": "Sastanak za praksu",
+						"short": "Sastanak"
+					},
+					{
+						"id": "-205",
+						"name": "Sastanak za praksu od 11:30",
+						"short": "Sasatanak"
+					},
+					{
+						"id": "-370",
+						"name": "Seminar 1",
+						"short": "Seminar 1"
+					},
+					{
+						"id": "-352",
+						"name": "Seminar 2",
+						"short": "Seminar 2"
+					},
+					{
+						"id": "-43",
+						"name": "Signali i sustavi",
+						"short": "SiS"
+					},
+					{
+						"id": "-269",
+						"name": "Signali i sustavi - ispit",
+						"short": "SiS-ispit"
+					},
+					{
+						"id": "-421",
+						"name": "Signali i sustavi - ispitne vježbe",
+						"short": "SiS"
+					},
+					{
+						"id": "-184",
+						"name": "Signali i sustavi - VJEŽBE",
+						"short": "SiS-vježbe"
+					},
+					{
+						"id": "-157",
+						"name": "Sigurnost računalnih mreža",
+						"short": "SRM"
+					},
+					{
+						"id": "-292",
+						"name": "Sigurnost računalnih mreža - ispit",
+						"short": "SRM-ispit"
+					},
+					{
+						"id": "-206",
+						"name": "Sigurnost računalnih mreža - kolokvij",
+						"short": "SRM-kol"
+					},
+					{
+						"id": "-83",
+						"name": "Sinteza sustava upravljanja",
+						"short": "SSU"
+					},
+					{
+						"id": "-357",
+						"name": "Sinteza sustava upravljanja - ispit",
+						"short": "SSU-ispit"
+					},
+					{
+						"id": "-191",
+						"name": "Sinteza sustava upravljanja - kolokvij",
+						"short": "SSU-kol"
+					},
+					{
+						"id": "-470",
+						"name": "Skriptni jezici",
+						"short": "SJ"
+					},
+					{
+						"id": "-285",
+						"name": "Skriptni jezici - ispit",
+						"short": "SJ-ispit"
+					},
+					{
+						"id": "-193",
+						"name": "Specijalni sustavi zaštite",
+						"short": "SSZ"
+					},
+					{
+						"id": "-345",
+						"name": "Specijalni sustavi zaštite - ispit",
+						"short": "SSZ-ispit"
+					},
+					{
+						"id": "-491",
+						"name": "Spremnici energije",
+						"short": "SE"
+					},
+					{
+						"id": "-364",
+						"name": "Spremnici energije - ispit",
+						"short": "SE-ispit"
+					},
+					{
+						"id": "-235",
+						"name": "Strojevi i alati - ispit",
+						"short": "SiA-ispit"
+					},
+					{
+						"id": "-449",
+						"name": "Strojevi i alati (OOČ+DEF)",
+						"short": "SiA(OOČ+DEF)"
+					},
+					{
+						"id": "-497",
+						"name": "Stručni posjet tehnološkom parku Intera",
+						"short": "Stručni posjet"
+					},
+					{
+						"id": "-498",
+						"name": "Stručni posjet tehnološkom parku Intera (polazak u 13:00 ispred FSRE-a)",
+						"short": "Stručni posjet"
+					},
+					{
+						"id": "-42",
+						"name": "Strukture podataka",
+						"short": "SP"
+					},
+					{
+						"id": "-266",
+						"name": "Strukture podataka - ispit",
+						"short": "SP-ispit"
+					},
+					{
+						"id": "-177",
+						"name": "Strukture podataka - kolokvij",
+						"short": "SP-kol"
+					},
+					{
+						"id": "-510",
+						"name": "Studijska posjeta Alfathermu",
+						"short": "Studijska posjeta Alfathermu"
+					},
+					{
+						"id": "-478",
+						"name": "Sustavi baza podataka",
+						"short": "SBP"
+					},
+					{
+						"id": "-296",
+						"name": "Sustavi baza podataka - ispit",
+						"short": "SBP-ispit"
+					},
+					{
+						"id": "-162",
+						"name": "Tehnička mehanika",
+						"short": "TM"
+					},
+					{
+						"id": "-355",
+						"name": "Tehnička mehanika - ispit",
+						"short": "TM-ispit"
+					},
+					{
+						"id": "-50",
+						"name": "Tehnički engleski jezik",
+						"short": "TEJ"
+					},
+					{
+						"id": "-282",
+						"name": "Tehnički engleski jezik - ispit",
+						"short": "TEJ-ispit"
+					},
+					{
+						"id": "-161",
+						"name": "Tehnički engleski jezik 1",
+						"short": "EJ1"
+					},
+					{
+						"id": "-450",
+						"name": "Tehnički engleski jezik 2",
+						"short": "TEJ2"
+					},
+					{
+						"id": "-156",
+						"name": "Tehnički engleski jezik 3",
+						"short": "TEJ3"
+					},
+					{
+						"id": "-515",
+						"name": "Tehničko crtanje",
+						"short": "Tc"
+					},
+					{
+						"id": "-144",
+						"name": "Tehnika visokog napona",
+						"short": "TVN"
+					},
+					{
+						"id": "-361",
+						"name": "Tehnika visokog napona - ispit",
+						"short": "TVN-ispit"
+					},
+					{
+						"id": "-188",
+						"name": "Tehnika visokog napona - kolokvij",
+						"short": "TVN-kol"
+					},
+					{
+						"id": "-118",
+						"name": "Tehnologično oblikovanje",
+						"short": "TO"
+					},
+					{
+						"id": "-373",
+						"name": "Tehnologično oblikovanje - ispit",
+						"short": "TO-ispit"
+					},
+					{
+						"id": "-451",
+						"name": "Tehnologija 1",
+						"short": "TEH1"
+					},
+					{
+						"id": "-225",
+						"name": "Tehnologija 1 - ispit",
+						"short": "TEH1-ispit"
+					},
+					{
+						"id": "-452",
+						"name": "Tehnologija 2",
+						"short": "TEH2"
+					},
+					{
+						"id": "-229",
+						"name": "Tehnologija 2 - ispit",
+						"short": "TEH2-ispit"
+					},
+					{
+						"id": "-97",
+						"name": "Tehnologija i društvo",
+						"short": "TiD"
+					},
+					{
+						"id": "-213",
+						"name": "Tehnologija i društvo - ispit",
+						"short": "TiD"
+					},
+					{
+						"id": "-141",
+						"name": "Tehnološki procesi",
+						"short": "TP"
+					},
+					{
+						"id": "-403",
+						"name": "Tehnološki procesi - ispit",
+						"short": "TP-ispit"
+					},
+					{
+						"id": "-380",
+						"name": "Tehnološki razvoj i EU integracije - ispit",
+						"short": "TRiEUI-ispit"
+					},
+					{
+						"id": "-240",
+						"name": "Tehnološki razvoj i EU integracije - ispit",
+						"short": "TRiEUI-ispit"
+					},
+					{
+						"id": "-496",
+						"name": "Telekomuniacijski sustavi i mreže",
+						"short": "TSiM"
+					},
+					{
+						"id": "-299",
+						"name": "Telekomunikacijski sustavi i mreže - ispit",
+						"short": "TSiM-ispit"
+					},
+					{
+						"id": "-140",
+						"name": "Teorija i tehnika mjerenja",
+						"short": "TiTM"
+					},
+					{
+						"id": "-231",
+						"name": "Teorija i tehnika mjerenja - ispit",
+						"short": "TiTM-ispit"
+					},
+					{
+						"id": "-467",
+						"name": "Teorija informacije",
+						"short": "TI"
+					},
+					{
+						"id": "-275",
+						"name": "Teorija informacije - ispit",
+						"short": "TI-ispit"
+					},
+					{
+						"id": "-103",
+						"name": "Termodinamika",
+						"short": "TER"
+					},
+					{
+						"id": "-224",
+						"name": "Termodinamika - ispit",
+						"short": "TER-ispit"
+					},
+					{
+						"id": "-197",
+						"name": "Termodinamika - kolokvij",
+						"short": "TER - kol"
+					},
+					{
+						"id": "-180",
+						"name": "TRAIN+",
+						"short": "TRAIN+"
+					},
+					{
+						"id": "-453",
+						"name": "Transportni uređaji",
+						"short": "TU"
+					},
+					{
+						"id": "-248",
+						"name": "Transportni uređaji - ispit",
+						"short": "TU-ispit"
+					},
+					{
+						"id": "-454",
+						"name": "Tribologija",
+						"short": "TRIB"
+					},
+					{
+						"id": "-407",
+						"name": "Tribologija - ispit",
+						"short": "TR-ispit"
+					},
+					{
+						"id": "-76",
+						"name": "Učinska elektronika",
+						"short": "UE"
+					},
+					{
+						"id": "-335",
+						"name": "Učinska elektronika - ispit",
+						"short": "UE-ispit"
+					},
+					{
+						"id": "-189",
+						"name": "Učinska elektronika - kolokvij",
+						"short": "UE - kol"
+					},
+					{
+						"id": "-381",
+						"name": "Učinska elektronika - kolokvij lab. vježbe",
+						"short": "UE-kol-lab"
+					},
+					{
+						"id": "-158",
+						"name": "Učinska elektronika - LV",
+						"short": "UE"
+					},
+					{
+						"id": "-419",
+						"name": "Učinska elektronika - usmeni ispit",
+						"short": "UE - usmeni"
+					},
+					{
+						"id": "-64",
+						"name": "Ugradbeni računalni sustavi",
+						"short": "URS"
+					},
+					{
+						"id": "-342",
+						"name": "Ugradbeni računalni sustavi - ispit",
+						"short": "URS-ispit"
+					},
+					{
+						"id": "-306",
+						"name": "Ugradbeni računalni sustavi - ispit",
+						"short": "URS-ispit"
+					},
+					{
+						"id": "-53",
+						"name": "Umjetna inteligencija",
+						"short": "UI"
+					},
+					{
+						"id": "-413",
+						"name": "Umjetna inteligencija - ispit",
+						"short": "UI-ispit"
+					},
+					{
+						"id": "-286",
+						"name": "Umjetna inteligencija - ispit",
+						"short": "UI-ispit"
+					},
+					{
+						"id": "-84",
+						"name": "Upravljanje elektromotornim pogonima",
+						"short": "UEP"
+					},
+					{
+						"id": "-353",
+						"name": "Upravljanje elektromotornim pogonima - ispit",
+						"short": "UEP-ispit"
+					},
+					{
+						"id": "-190",
+						"name": "Upravljanje elektromotornim pogonima - kolokvij",
+						"short": "UEP - kol"
+					},
+					{
+						"id": "-181",
+						"name": "Upravljanje elektromotornim pogonima - vježbe",
+						"short": "UEP"
+					},
+					{
+						"id": "-166",
+						"name": "Upravljanje kvalitetom",
+						"short": "UK"
+					},
+					{
+						"id": "-411",
+						"name": "Upravljanje kvalitetom - ispit",
+						"short": "UK-ispit"
+					},
+					{
+						"id": "-109",
+						"name": "Upravljanje proizvodnjom",
+						"short": "UP"
+					},
+					{
+						"id": "-377",
+						"name": "Upravljanje proizvodnjom - ispit",
+						"short": "UP-ispit"
+					},
+					{
+						"id": "-88",
+						"name": "Upravljanje projektima",
+						"short": "UP"
+					},
+					{
+						"id": "-363",
+						"name": "Upravljanje projektima - ispit",
+						"short": "UP-ispit"
+					},
+					{
+						"id": "-295",
+						"name": "Upravljanje projektima - ispit",
+						"short": "UP-ispit"
+					},
+					{
+						"id": "-250",
+						"name": "Uvod u informacijske sustave - ispit",
+						"short": "UuIS-ispit"
+					},
+					{
+						"id": "-131",
+						"name": "Vibracije mehaničkih konstrukcija",
+						"short": "VMK"
+					},
+					{
+						"id": "-242",
+						"name": "Vibracije mehaničkih konstrukcija - ispit",
+						"short": "VMK-ispit"
+					},
+					{
+						"id": "-116",
+						"name": "Vibracijska dijagnostika strojeva i uređaja",
+						"short": "VDSiU"
+					},
+					{
+						"id": "-393",
+						"name": "Vibracijska dijagnostika strojeva i uređaja - ispit",
+						"short": "VDSiU-ispit"
+					},
+					{
+						"id": "-45",
+						"name": "Vjerojatnost i statistika",
+						"short": "ViS"
+					},
+					{
+						"id": "-321",
+						"name": "Vjerojatnost i statistika - ispit",
+						"short": "ViS-ispit"
+					},
+					{
+						"id": "-268",
+						"name": "Vjerojatnost i statistika - ispit",
+						"short": "ViS-ispit"
+					},
+					{
+						"id": "-209",
+						"name": "Vjerojatnost i statistika - kolokvij",
+						"short": "ViS-kol"
+					},
+					{
+						"id": "-38",
+						"name": "Vještine komuniciranja u organizaciji",
+						"short": "VKuO"
+					},
+					{
+						"id": "-312",
+						"name": "Vještine komuniciranja u organizaciji - ispit",
+						"short": "VKuO-ispit"
+					},
+					{
+						"id": "-259",
+						"name": "Vještine komuniciranja u organizaciji - ispit",
+						"short": "VKuO-ispit"
+					},
+					{
+						"id": "-489",
+						"name": "Zaštita elektroenergetskog sustava",
+						"short": "ZES"
+					},
+					{
+						"id": "-337",
+						"name": "Zaštita elektroenergetskog sustava - ispit",
+						"short": "ZES-ispit"
+					},
+					{
+						"id": "-455",
+						"name": "Zavarene konstrukcije",
+						"short": "ZK"
+					},
+					{
+						"id": "-395",
+						"name": "Zavarene konstrukcije - ispit",
+						"short": "ZK-ispit"
+					},
+					{
+						"id": "-136",
+						"name": "Zavarivanje i montaža",
+						"short": "ZiM"
+					},
+					{
+						"id": "-249",
+						"name": "Zavarivanje i montaža - ispit",
+						"short": "ZiM-ispit"
+					},
+					{
+						"id": "-233",
+						"name": "Zavarivanje i montaža - ispit",
+						"short": "ZiM-ispit"
+					}
+				],
+				"data_columns": [
+					"name",
+					"short"
+				]
+			},
+			{
+				"id": "classrooms",
+				"def": {
+					"id": "classrooms",
+					"name": "Učionice",
+					"item_name": "Učionica",
+					"icon": "/global/pics/ui/classroom_32.svg"
+				},
+				"cdefs": [
+					{
+						"id": "short",
+						"type": "string",
+						"name": "Kratica"
+					}
+				],
+				"_uial": 0,
+				"data_rows": [
+					{
+						"id": "-53",
+						"short": "0"
+					},
+					{
+						"id": "-36",
+						"short": "103"
+					},
+					{
+						"id": "-37",
+						"short": "104"
+					},
+					{
+						"id": "-50",
+						"short": "112"
+					},
+					{
+						"id": "-38",
+						"short": "115"
+					},
+					{
+						"id": "-42",
+						"short": "221"
+					},
+					{
+						"id": "-39",
+						"short": "222"
+					},
+					{
+						"id": "-40",
+						"short": "225"
+					},
+					{
+						"id": "-41",
+						"short": "226"
+					},
+					{
+						"id": "-43",
+						"short": "231"
+					},
+					{
+						"id": "-44",
+						"short": "232"
+					},
+					{
+						"id": "-54",
+						"short": "300"
+					},
+					{
+						"id": "-32",
+						"short": "302"
+					},
+					{
+						"id": "-31",
+						"short": "304"
+					},
+					{
+						"id": "-33",
+						"short": "305"
+					},
+					{
+						"id": "-34",
+						"short": "306"
+					},
+					{
+						"id": "-35",
+						"short": "307"
+					},
+					{
+						"id": "-51",
+						"short": "Lab 112"
+					},
+					{
+						"id": "-57",
+						"short": "Lab za fiziku (111)"
+					},
+					{
+						"id": "-60",
+						"short": "Lab-Programiranje"
+					},
+					{
+						"id": "-49",
+						"short": "Online"
+					},
+					{
+						"id": "-48",
+						"short": "Online"
+					},
+					{
+						"id": "-47",
+						"short": "Online"
+					},
+					{
+						"id": "-46",
+						"short": "Online"
+					},
+					{
+						"id": "-45",
+						"short": "Online"
+					},
+					{
+						"id": "-52",
+						"short": "Posjet poduzeću"
+					},
+					{
+						"id": "-55",
+						"short": "Radionica"
+					},
+					{
+						"id": "-56",
+						"short": "Tvornica za učenje"
+					}
+				],
+				"data_columns": [
+					"short"
+				]
+			}
+		],
+		"changeEvents": {
+			"dbi:teachers": 7451517,
+			"dbi:subjects": 1727670,
+			"dbi:classrooms": 6226244
+		}
+	}
+}

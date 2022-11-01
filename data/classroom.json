@@ -1,0 +1,88 @@
+{
+	"data_rows": {
+		"-53": {
+			"short": "0"
+		},
+		"-36": {
+			"short": "103"
+		},
+		"-37": {
+			"short": "104"
+		},
+		"-50": {
+			"short": "112"
+		},
+		"-38": {
+			"short": "115"
+		},
+		"-42": {
+			"short": "221"
+		},
+		"-39": {
+			"short": "222"
+		},
+		"-40": {
+			"short": "225"
+		},
+		"-41": {
+			"short": "226"
+		},
+		"-43": {
+			"short": "231"
+		},
+		"-44": {
+			"short": "232"
+		},
+		"-54": {
+			"short": "300"
+		},
+		"-32": {
+			"short": "302"
+		},
+		"-31": {
+			"short": "304"
+		},
+		"-33": {
+			"short": "305"
+		},
+		"-34": {
+			"short": "306"
+		},
+		"-35": {
+			"short": "307"
+		},
+		"-51": {
+			"short": "Lab 112"
+		},
+		"-57": {
+			"short": "Lab za fiziku (111)"
+		},
+		"-60": {
+			"short": "Lab-Programiranje"
+		},
+		"-49": {
+			"short": "Online"
+		},
+		"-48": {
+			"short": "Online"
+		},
+		"-47": {
+			"short": "Online"
+		},
+		"-46": {
+			"short": "Online"
+		},
+		"-45": {
+			"short": "Online"
+		},
+		"-52": {
+			"short": "Posjet poduzeću"
+		},
+		"-55": {
+			"short": "Radionica"
+		},
+		"-56": {
+			"short": "Tvornica za učenje"
+		}
+	}
+}

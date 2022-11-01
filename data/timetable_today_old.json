@@ -1,0 +1,20 @@
+{
+	"class": [
+		{
+			"starttime": "09:00",
+			"endtime": "13:00",
+			"date": "2022-10-19",
+			"name": "Sat: Digitalni sustavi i strukture",
+			"teacher": "-68",
+			"classroom": "-36"
+		},
+		{
+			"starttime": "13:00",
+			"endtime": "15:00",
+			"date": "2022-10-19",
+			"name": "Sat: Engleski jezik 1",
+			"teacher": "-152",
+			"classroom": "-31"
+		}
+	]
+}

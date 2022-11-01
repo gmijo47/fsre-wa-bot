@@ -1,0 +1,5 @@
+2022/10/19-15:06:42.692 abc Creating DB C:\Users\Galic\Desktop\fsre-wa-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2022/10/19-15:06:42.701 abc Reusing MANIFEST C:\Users\Galic\Desktop\fsre-wa-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/19-15:07:16.070 6db8 Level-0 table #5: started
+2022/10/19-15:07:16.103 6db8 Level-0 table #5: 1140805 bytes OK
+2022/10/19-15:07:16.104 6db8 Delete type=0 #3

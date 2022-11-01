@@ -1,0 +1,16 @@
+{
+  "name": "fsre-wa-bot",
+  "version": "1.0.0",
+  "description": "Bot to fetch changes from timetable for FSRE students",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app",
+    "production": "node app.js"
+  },
+  "author": "gmijo47",
+  "license": "ISC",
+  "dependencies": {
+    "date-and-time": "^2.4.1",
+    "whatsapp-web.js": "^1.17.1"
+  }
+}
