@@ -1,12 +1,3 @@
-2022/10/20-00:51:08.426 c50 Reusing MANIFEST C:\Users\Galic\Desktop\fsre-wa-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/10/20-00:51:08.426 c50 Recovering log #4
-2022/10/20-00:51:08.604 c50 Reusing old log C:\Users\Galic\Desktop\fsre-wa-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000004.log 
-2022/10/20-00:51:49.328 1df0 Level-0 table #8: started
-2022/10/20-00:51:49.360 1df0 Level-0 table #8: 1203128 bytes OK
-2022/10/20-00:51:49.362 1df0 Delete type=0 #4
-2022/10/20-00:51:50.024 2fbc Compacting 1@1 + 1@2 files
-2022/10/20-00:51:50.095 2fbc Generated table #9@1: 19769 keys, 981517 bytes
-2022/10/20-00:51:50.095 2fbc Compacted 1@1 + 1@2 files => 981517 bytes
-2022/10/20-00:51:50.097 2fbc compacted to: files[ 0 0 1 0 0 0 0 ]
-2022/10/20-00:51:50.097 2fbc Delete type=2 #5
-2022/10/20-00:51:50.097 2fbc Delete type=2 #8
+2022/11/05-19:47:29.379 e4c Reusing MANIFEST D:\Projects\fsre-wa-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/05-19:47:29.379 e4c Recovering log #191
+2022/11/05-19:47:29.445 e4c Reusing old log D:\Projects\fsre-wa-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000191.log 

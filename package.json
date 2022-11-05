@@ -1,16 +1,17 @@
 {
   "name": "fsre-wa-bot",
-  "version": "1.0.0",
-  "description": "Bot to fetch changes from timetable for FSRE students",
+  "version": "1.0.1",
+  "description": "Bot namjenjen za pračenje promjena unutar rasporeda, i slanje obavjesti usljed istih.",
   "main": "app.js",
   "scripts": {
     "test": "nodemon app",
     "production": "node app.js"
   },
-  "author": "gmijo47",
+  "author": "Galić Mijo (gmijo47)",
   "license": "ISC",
   "dependencies": {
     "date-and-time": "^2.4.1",
+    "qrcode-terminal": "^0.12.0",
     "whatsapp-web.js": "^1.17.1"
   }
 }

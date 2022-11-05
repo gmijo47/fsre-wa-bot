@@ -1,17 +1,17 @@
 {
-    "__args": [
-      null,
-      {
-        "year": 2022,
-        "datefrom": "2022-10-17",
-        "dateto": "2022-10-23",
-        "table": "classes",
-        "id": "-53",
-        "showColors": true,
-        "showIgroupsInClasses": false,
-        "showOrig": true,
-        "log_module": "CurrentTTView"
-      }
-    ],
-    "__gsh": "00000000"
-  }
+	"__args": [
+		null,
+		{
+			"year": 2022,
+			"datefrom": "2022-10-30",
+			"dateto": "2022-11-05",
+			"table": "classes",
+			"id": "-53",
+			"showColors": true,
+			"showIgroupsInClasses": false,
+			"showOrig": true,
+			"log_module": "CurrentTTView"
+		}
+	],
+	"__gsh": "00000000"
+}

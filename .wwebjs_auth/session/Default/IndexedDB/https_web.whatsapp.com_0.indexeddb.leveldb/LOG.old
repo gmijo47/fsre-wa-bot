@@ -1,5 +1,18 @@
-2022/10/19-15:06:42.692 abc Creating DB C:\Users\Galic\Desktop\fsre-wa-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
-2022/10/19-15:06:42.701 abc Reusing MANIFEST C:\Users\Galic\Desktop\fsre-wa-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/10/19-15:07:16.070 6db8 Level-0 table #5: started
-2022/10/19-15:07:16.103 6db8 Level-0 table #5: 1140805 bytes OK
-2022/10/19-15:07:16.104 6db8 Delete type=0 #3
+2022/11/05-19:44:24.371 2d48 Reusing MANIFEST D:\Projects\fsre-wa-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/05-19:44:24.371 2d48 Recovering log #184
+2022/11/05-19:44:24.654 2d48 Reusing old log D:\Projects\fsre-wa-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000184.log 
+2022/11/05-19:44:37.314 134c Level-0 table #192: started
+2022/11/05-19:44:37.467 134c Level-0 table #192: 1275751 bytes OK
+2022/11/05-19:44:37.562 134c Delete type=0 #184
+2022/11/05-19:44:37.805 134c Compacting 1@1 + 4@2 files
+2022/11/05-19:44:38.221 134c Generated table #193@1: 30301 keys, 2238690 bytes
+2022/11/05-19:44:38.625 134c Generated table #194@1: 23871 keys, 2255295 bytes
+2022/11/05-19:44:39.115 134c Generated table #195@1: 44250 keys, 2257894 bytes
+2022/11/05-19:44:39.447 134c Generated table #196@1: 52082 keys, 1714145 bytes
+2022/11/05-19:44:39.447 134c Compacted 1@1 + 4@2 files => 8466024 bytes
+2022/11/05-19:44:39.544 134c compacted to: files[ 0 0 4 0 0 0 0 ]
+2022/11/05-19:44:39.545 134c Delete type=2 #186
+2022/11/05-19:44:39.545 134c Delete type=2 #187
+2022/11/05-19:44:39.545 134c Delete type=2 #188
+2022/11/05-19:44:39.545 134c Delete type=2 #189
+2022/11/05-19:44:39.545 134c Delete type=2 #192

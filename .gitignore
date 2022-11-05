@@ -125,3 +125,12 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+#session
+tokens/
+.webjs_auth/
+.wwebjs_auth/session/*
+.wwebjs_auth/
+*.dat
+*.dat
+.wwebjs_auth/session/Default/Cache/Cache_Data/f_000021

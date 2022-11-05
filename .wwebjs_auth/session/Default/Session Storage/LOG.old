@@ -1,2 +1,3 @@
-2022/10/19-15:06:42.030 6db8 Creating DB C:\Users\Galic\Desktop\fsre-wa-bot\.wwebjs_auth\session\Default\Session Storage since it was missing.
-2022/10/19-15:06:42.035 6db8 Reusing MANIFEST C:\Users\Galic\Desktop\fsre-wa-bot\.wwebjs_auth\session\Default\Session Storage/MANIFEST-000001
+2022/11/05-19:44:23.859 4050 Reusing MANIFEST D:\Projects\fsre-wa-bot\.wwebjs_auth\session\Default\Session Storage/MANIFEST-000001
+2022/11/05-19:44:23.860 4050 Recovering log #3
+2022/11/05-19:44:23.860 4050 Reusing old log D:\Projects\fsre-wa-bot\.wwebjs_auth\session\Default\Session Storage/000003.log 
