@@ -17,7 +17,8 @@ var starttime = new Date()
     //Create client with local auth
 const client = new Client({
     authStrategy: new LocalAuth()
-});
+},
+{puppeteer: {args: ["--no-sandbox"]}});
 
 //Generate qr code for sign in
 client.on('qr', qr => {
