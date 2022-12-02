@@ -15,7 +15,9 @@ let dataConf = JSON.parse(fs.readFileSync('./config/data.json', 'utf8'));
 var days = ['Nedelja', 'Ponedeljak', 'Utorak', 'Srijeda', 'Četvrtak', 'Petak', 'Subota']
 var starttime = new Date()
     //Create client with local auth
-const client = new Client({puppeteer: {args: ["--no-sandbox"]}});
+    const client = new Client({
+        authStrategy: new LocalAuth()
+    });
 
 //Generate qr code for sign in
 client.on('qr', qr => {
