@@ -34,14 +34,15 @@ client.on('ready', () => {
 
 //Client commands and chat
 client.on('message', async(msg) => {
+    if(msg.body.startsWith('!')){
+    events.handleMessage(msg.body, msg.author, msg, (await msg.getChat()).isGroup, (await msg.getChat()).id)
+    }
 
-    events.handleMessage(msg.getChat(), msg.body, msg.author, msg, (await msg.getChat()).isGroup)
 
 });
 client.on("group_join", async(group) =>{
-    group.reply("👩‍🚀 *FSRE Bot* 👩‍🚀\n\n Ovaj nalog kontroliše bot, te šalje obavještenja o promjeni rasporeda, ukoliko kojim slučajem se nešto zezne, izbacite me iz grupe, budući da sam još uvijek u beta fazi. Također možete mi se javiti privatno, te vidjeti sve opcije tako što će te mi poslati poruku *!pomoć*. \n\nVaš FSRE Bot ⚙️");
+    group.reply("");
 })
-
 
 client.initialize();
 

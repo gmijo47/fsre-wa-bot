@@ -9,9 +9,9 @@ let dataConf = JSON.parse(fs.readFileSync('./config/data.json', 'utf8'));
 var days = ['Nedelja', 'Ponedeljak', 'Utorak', 'Srijeda', 'Četvrtak', 'Petak', 'Subota']
 
 
-async function handleMessage(chat, msgb, author, msg, group){
+async function handleMessage(msgb, author, msg, group, chatid){
 //Register group chanell
-if (group) {
+if (group){
          if (msgb == "!sub" && author == config.super_admin.id) {
  
              //Check if chanell is registered
@@ -19,7 +19,7 @@ if (group) {
              if (dataConf.group.id == "") {
  
                  //Not registered
-                 dataConf.group.id = chat.id._serialized;
+                 dataConf.group.id = chatid._serialized
                  try {
  
                      fs.writeFileSync('config/data.json', JSON.stringify(dataConf, null, "\t"));
