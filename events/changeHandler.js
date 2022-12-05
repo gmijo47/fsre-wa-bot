@@ -145,8 +145,14 @@ async function handleEvent(WAevent, oldObj, newObj){
             
             //Push submessages and send
             message.push(addedmess, rmedmess, editedmess);
-            wa.client.sendMessage(config.group.id, message.join(" "));
-            
+            if(config.group.id == ""){
+                console.warn("Group not defined type !sub to define")
+            }else {
+
+                wa.client.sendMessage(config.group.id, message.join(" "));
+
+            }
+    
             }
 
 };

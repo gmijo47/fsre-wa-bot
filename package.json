@@ -1,6 +1,6 @@
 {
   "name": "fsre-wa-bot",
-  "version": "1.0.1",
+  "version": "1.0.2-beta",
   "description": "Bot namjenjen za pračenje promjena unutar rasporeda, i slanje obavjesti usljed istih.",
   "main": "app.js",
   "scripts": {

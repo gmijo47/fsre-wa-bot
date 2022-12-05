@@ -39,8 +39,9 @@ client.on('message', async(msg) => {
 
 });
 client.on("group_join", async(group) =>{
-    group.reply("");
+    group.reply("👩‍🚀 *FSRE Bot* 👩‍🚀\n\n Ovaj nalog kontroliše bot, te šalje obavještenja o promjeni rasporeda, ukoliko kojim slučajem se nešto zezne, izbacite me iz grupe, budući da sam još uvijek u beta fazi. Također možete mi se javiti privatno, te vidjeti sve opcije tako što će te mi poslati poruku *!pomoć*. \n\nVaš FSRE Bot ⚙️");
 })
+
 
 client.initialize();
 
