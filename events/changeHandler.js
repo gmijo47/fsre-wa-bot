@@ -1,5 +1,5 @@
 const wa = require('../app')
-const config = require('./../config/data');
+const config = require('../config/data.json');
 const dat = require('date-and-time');
 
 async function handleEvent(WAevent, oldObj, newObj){
