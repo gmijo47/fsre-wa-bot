@@ -1,6 +1,6 @@
 {
          "delay":{
-                  "post_request": 1800000
+                  "post_request": 1200000
          },
          "super_admin":{
                   "id": "38761908687@c.us"

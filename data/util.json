@@ -1,0 +1,10 @@
+[
+         { type: 'set', path: [ 'class', 13, 'starttime' ], val: '14:00' },
+         {
+           type: 'rm',
+           path: [ 'class' ],
+           index: 12,
+           num: 1,
+           vals: [ [Object] ]
+         }
+       ]

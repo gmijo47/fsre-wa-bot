@@ -3,31 +3,23 @@
 		{
 			"starttime": "09:00",
 			"endtime": "11:30",
-			"date": "2022-11-07",
+			"date": "2022-12-12",
 			"name": "Sat: Komunikacijske vještine",
 			"teacher": "-223",
 			"classroom": "-31"
 		},
 		{
-			"starttime": "11:30",
-			"endtime": "14:00",
-			"date": "2022-11-07",
-			"name": "Sat: Matematika 1 - V ",
-			"teacher": "-61",
-			"classroom": "-31"
-		},
-		{
 			"starttime": "14:15",
 			"endtime": "16:15",
-			"date": "2022-11-07",
+			"date": "2022-12-12",
 			"name": "Sat: Programiranje 1 - V (grupa 2)",
 			"teacher": "-89",
-			"classroom": "-33"
+			"classroom": "-40"
 		},
 		{
 			"starttime": "08:15",
 			"endtime": "11:15",
-			"date": "2022-11-08",
+			"date": "2022-12-13",
 			"name": "Sat: Matematika 1",
 			"teacher": "-147",
 			"classroom": "-31"
@@ -35,15 +27,15 @@
 		{
 			"starttime": "11:30",
 			"endtime": "14:00",
-			"date": "2022-11-08",
-			"name": "Sat: Matematika  1-V ",
+			"date": "2022-12-13",
+			"name": "Sat: Matematika  1-V)",
 			"teacher": "-61",
 			"classroom": "-31"
 		},
 		{
 			"starttime": "14:15",
 			"endtime": "16:15",
-			"date": "2022-11-08",
+			"date": "2022-12-13",
 			"name": "Sat: Programiranje 1 - V (grupa 3)",
 			"teacher": "-89",
 			"classroom": "-35"
@@ -51,7 +43,7 @@
 		{
 			"starttime": "09:00",
 			"endtime": "13:00",
-			"date": "2022-11-09",
+			"date": "2022-12-14",
 			"name": "Sat: Digitalni sustavi i strukture",
 			"teacher": "-68",
 			"classroom": "-36"
@@ -59,7 +51,7 @@
 		{
 			"starttime": "13:00",
 			"endtime": "15:00",
-			"date": "2022-11-09",
+			"date": "2022-12-14",
 			"name": "Sat: Engleski jezik 1",
 			"teacher": "-152",
 			"classroom": "-31"
@@ -67,39 +59,39 @@
 		{
 			"starttime": "08:00",
 			"endtime": "11:00",
-			"date": "2022-11-10",
+			"date": "2022-12-15",
 			"name": "Sat: Programiranje 1",
 			"teacher": "-54",
 			"classroom": "-31"
 		},
 		{
-			"starttime": "12:00",
-			"endtime": "14:00",
-			"date": "2022-11-10",
-			"name": "Sat: Matematika  1-V (A-Lj)",
-			"teacher": "-61",
-			"classroom": "-43"
-		},
-		{
 			"starttime": "14:00",
 			"endtime": "16:00",
-			"date": "2022-11-10",
+			"date": "2022-12-15",
 			"name": "Sat: Programiranje 1 - V(grupa 1)",
 			"teacher": "-60",
 			"classroom": "-35"
 		},
 		{
+			"starttime": "16:00",
+			"endtime": "18:00",
+			"date": "2022-12-15",
+			"name": "Sat: Programiranje 1 - V(grupa 4)",
+			"teacher": "-59",
+			"classroom": "-33"
+		},
+		{
 			"starttime": "08:00",
 			"endtime": "10:00",
-			"date": "2022-11-11",
+			"date": "2022-12-16",
 			"name": "Sat: Internet i web tehnologije (P)",
 			"teacher": "-199",
-			"classroom": "-35"
+			"classroom": "-31"
 		},
 		{
 			"starttime": "10:00",
 			"endtime": "12:00",
-			"date": "2022-11-11",
+			"date": "2022-12-16",
 			"name": "Sat: Internet i web tehnologije -V (A-F)",
 			"teacher": "-199",
 			"classroom": "-35"
@@ -107,7 +99,7 @@
 		{
 			"starttime": "12:00",
 			"endtime": "14:00",
-			"date": "2022-11-11",
+			"date": "2022-12-16",
 			"name": "Sat: Internet i web tehnologije -V (G-Nj)",
 			"teacher": "-199",
 			"classroom": "-35"
@@ -115,7 +107,7 @@
 		{
 			"starttime": "14:00",
 			"endtime": "16:00",
-			"date": "2022-11-11",
+			"date": "2022-12-16",
 			"name": "Sat: Internet i web tehnologije -V (O-Ž)",
 			"teacher": "-199",
 			"classroom": "-35"

@@ -133,4 +133,5 @@ tokens/
 .wwebjs_auth/
 *.dat
 *.dat
-.wwebjs_auth/session/Default/Cache/Cache_Data/f_000021
+.wwebjs_auth/*
+
